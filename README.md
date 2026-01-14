@@ -7,7 +7,8 @@
 
 ## References and Resources
 
-N/A
+`https://www.w3schools.com/xml/el_include.asp`
+`https://developer.android.com/develop/ui/views/layout/edge-to-edge`
 
 ## Verbal Collaboration
 
