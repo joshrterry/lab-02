@@ -29,12 +29,12 @@
         android:id="@+id/city_list"
         android:layout_width="0dp"
         android:layout_height="0dp"
+        android:layout_marginTop="8dp"
         android:choiceMode="singleChoice"
-        android:listSelector="?android:attr/colorControlHighlight"
-        app:layout_constraintTop_toBottomOf="@id/addButton"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        app:layout_constraintTop_toBottomOf="@id/addButton" />
 
     <EditText
         android:id="@+id/inputText"
