@@ -14,3 +14,8 @@
 ## Verbal Collaboration
 
 N/A
+
+## Project Demo
+
+![Screen_recording_20260114_153753](https://github.com/user-attachments/assets/eeeb0a00-7df5-460b-ac32-5393d3d972d8)
+
