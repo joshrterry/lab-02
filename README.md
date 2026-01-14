@@ -17,4 +17,4 @@ N/A
 
 ## Project Demo
 
-<img src="https://github.com/user-attachments/assets/eeeb0a00-7df5-460b-ac32-5393d3d972d8" width="50%" height="50%"/>
+<img src="https://github.com/user-attachments/assets/eeeb0a00-7df5-460b-ac32-5393d3d972d8" width="30%" height="30%"/>
